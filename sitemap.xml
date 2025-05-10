@@ -8,8 +8,12 @@
 
 
 <url>
-  <loc>https://wowshoplist.github.io/</loc>
+  <loc>https://wowshoplist.github.io</loc>
   <lastmod>2025-05-10T03:46:48+00:00</lastmod>
+</url>
+      <url>
+  <loc>https://wowshoplist.github.io/test1</loc>
+  <lastmod>2025-05-10T03:56:48+00:00</lastmod>
 </url>
 
 
